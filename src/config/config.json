@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "grafsound",
+    "password": "g32*9hhaW99",
+    "database": "grafsound",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "grafsound",
+    "password": "g32*9hhaW99",
+    "database": "grafsound",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "grafsound",
+    "password": "g32*9hhaW99",
+    "database": "grafsound",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
